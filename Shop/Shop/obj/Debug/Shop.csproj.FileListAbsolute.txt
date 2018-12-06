@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\FluentValidation.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\FluentValidation.xml
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete

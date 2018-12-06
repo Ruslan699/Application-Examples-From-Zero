@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.Form1.resources
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.Properties.Resources.resources
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shop\ShopDemo\bin\Debug\ShopDemo.exe.config
+C:\Users\User\source\repos\Shop\ShopDemo\bin\Debug\ShopDemo.exe
+C:\Users\User\source\repos\Shop\ShopDemo\bin\Debug\ShopDemo.pdb
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.exe
+C:\Users\User\source\repos\Shop\ShopDemo\obj\Debug\ShopDemo.pdb
