@@ -5,5 +5,5 @@
 # Application with EnitityFramework
 
 
-In this Application I wanted to show how to write basic Desktop Application working with Datas (Database) 
+In this Application I wanted to show how to write basic Desktop Application working with Entity Framework 
 
